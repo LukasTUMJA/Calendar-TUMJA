@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calender TUM Junge Akademie
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20250721T131618Z
+UID:60o8hvj0iqb1qq0cbqev4vposa@google.com
+CREATED:20250714T203244Z
+DESCRIPTION:Link to application form: <br><a href="https://collab.dvb.bayer
+ n/x/oqiMB">https://collab.dvb.bayern/x/oqiMB</a>
+LAST-MODIFIED:20250714T203244Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[TUMJA] Deadline Application
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250822T140000Z
+DTEND:20250822T170000Z
+DTSTAMP:20250721T131618Z
+UID:7j1lv92o4mr3p5c7fj1f82ds0f@google.com
+CREATED:20250714T203359Z
+DESCRIPTION:The Q&A and will take place in the office of TUM: Junge Akademi
+ e (Augustenstraße 46 in Munich) and via Zoom... \n\nMore information will b
+ e published on the website and via E-Mail...
+LAST-MODIFIED:20250718T131921Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[TUMJA] Q&A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251012
+DTSTAMP:20250721T131618Z
+UID:2f49lgaao636g5q4nh7cbecg1c@google.com
+CREATED:20250712T160219Z
+DESCRIPTION:We will inform you in mid-September via email whether you have 
+ been selected for the selection days. Within that email\, you will also get
+  more information about the selection days themselves...
+LAST-MODIFIED:20250718T132015Z
+LOCATION:TUM Stammgelände
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:[TUMJA] Selection Days
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20250721T131618Z
+UID:781fg0al6td5s73ar20uopt6gg@google.com
+CREATED:20250712T160312Z
+DESCRIPTION:The Seminar Weekend will take place in the "Jugendherberge Poss
+ enhoffen" near Starnberger See. \n\nMore information about the Kick-Off wil
+ l be explained at the Seminar 0 on Monday (3rd November)
+LAST-MODIFIED:20250718T132315Z
+LOCATION:Jugendherberge Possenhoffen
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[TUMJA] Seminar Weekend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T170000Z
+DTEND:20251104T180000Z
+DTSTAMP:20250721T131618Z
+UID:3ne3pu7g3cslingdvs0g2b5k0n@google.com
+CREATED:20250712T160246Z
+DESCRIPTION:Seminar 0\, where the Board of Members will introduce TUM: Jung
+ e Akademie and explain what will happen at the Kick-Off in Possenhoffen... 
+ \n\nThe Link to the Zoom Meeting will be send a couple of days before the m
+ eeting.
+LAST-MODIFIED:20250721T131559Z
+LOCATION:Online via Zoom
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[TUMJA] Seminar 0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
